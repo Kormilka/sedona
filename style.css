@@ -1,1 +1,8 @@
-df
+body {
+width: 1280px;
+}
+
+.line_header {
+width: 1200px;
+back-graund: white;
+}
