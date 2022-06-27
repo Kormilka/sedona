@@ -14,5 +14,9 @@ display: flex;
 
 .nav_ul_li_left, nav_ul_li_right {
 width: 239px;
+}
 
+
+nav_ul_li_left--r {
+justify-content: flex-end;
 }
