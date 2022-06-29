@@ -20,3 +20,7 @@ width: 239px;
 nav_ul_li_left--r {
 justify-content: flex-end;
 }
+
+.logo {
+background-image: url(logo.png);
+}
