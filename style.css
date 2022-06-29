@@ -28,5 +28,5 @@ justify-content: flex-end;
   height: 96.43px;
 background-image: url(logo.png);
 background-repeat: no-repeat
-background-position: left, right;
+margin: auto;
 }
