@@ -3,31 +3,19 @@ width: 1280px;
 background: #E7E5E5;
 }
 
-.line_header {
+.header_nav {
 width: 1200px;
 background: #FFFFFF;
-display: flex;
-  position: absolute;
+margin: auto;
 }
 
-.nav_ul_li {
-display: flex;
-}
-
-.nav_ul_li_left, nav_ul_li_right {
-width: 239px;
-}
-
-
-nav_ul_li_left--r {
-justify-content: flex-end;
+.header_nav_logo {
+width: 186.6px;
+height: 96.43px;
+background-image: url(logo.png);
+background-repeat: no-repeat
 }
 
 .logo {
-  width: 186.6px;
-  height: 96.43px;
-background-image: url(logo.png);
-background-repeat: no-repeat
 margin: auto;
-  position: absolute;
 }
