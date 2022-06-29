@@ -7,6 +7,7 @@ background: #E7E5E5;
 width: 1200px;
 background: #FFFFFF;
 display: flex;
+  position: absolute;
 }
 
 .nav_ul_li {
