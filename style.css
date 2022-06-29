@@ -29,4 +29,5 @@ justify-content: flex-end;
 background-image: url(logo.png);
 background-repeat: no-repeat
 margin: auto;
+  position: absolute;
 }
