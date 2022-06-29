@@ -22,5 +22,8 @@ justify-content: flex-end;
 }
 
 .logo {
+  width: 186.6px;
+  height: 96.43px;
 background-image: url(logo.png);
+background-repeat: no-repeat
 }
