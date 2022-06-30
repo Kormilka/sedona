@@ -4,26 +4,32 @@ background: #E7E5E5;
 margin: auto;
 }
 
-.header_nav {
+.header {
 width: 1200px;
 height: 50px;
 background: #FFFFFF;
 margin: auto;
 }
 
-.header_nav_logo {
+.header_logo {
+background-image: url(logo.png);
 width: 186.6px;
 height: 96.43px;
-background-image: url(logo.png);
-background-repeat: no-repeat
-}
-
-.logo {
 margin: auto;
 }
 
-.nav_li {
+.header_nav {
+list-style-type: none;
 display: flex;
 justify-content: space-between;
- margin-top: -80px;
+}
+
+.header_nav_position {
+
+}
+
+.nav_li {
+width: 239px;
+height: 56px;
+background-color: #aaa;
 }
